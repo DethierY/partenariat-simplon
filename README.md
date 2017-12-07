@@ -3,15 +3,14 @@
 
 ### Description :
 
-...
+  Ce plugin permet de présenter le partenaire simplon et d'y renvoyer un lien.
 
 ### Installation :
 
 ...
 
 ### Utilisation :
-
-...
+  Ajouter le shortcode [Simplon] à l'endroit de la page/article où l'on veut ajouter la mention concernat Simplon.
 
 ### Ressources :
 #### Déclaration du plugin :
