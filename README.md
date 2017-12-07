@@ -7,7 +7,9 @@
 
 ### Installation :
 
-...
+   Cliquez sur Extensions, puis sur Ajouter, puis sur téléversez une extension.
+   Sélectionner le fichier Simplon.zip et chargee le.
+   Une fois que le plugin est dans la liste des extensions intallées, cliquez sur Activer.
 
 ### Utilisation :
   Ajouter le shortcode [Simplon] à l'endroit de la page/article où l'on veut ajouter la mention concernat Simplon.
